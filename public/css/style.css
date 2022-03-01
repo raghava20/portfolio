@@ -24,7 +24,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #EF233C;
+    /* color: #EF233C; */
     outline: none;
     text-decoration: none;
 }
